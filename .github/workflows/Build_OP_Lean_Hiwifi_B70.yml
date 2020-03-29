@@ -5,7 +5,8 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_Lean_Hiwifi_B70
+name: Build_Lean_Hiwifi_B70_test
+
 
 on: 
   release:
